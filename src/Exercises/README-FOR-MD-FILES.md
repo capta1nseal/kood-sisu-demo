@@ -33,4 +33,7 @@ This can be done by following the next steps:
 
 [Here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is a link to GitHub's own documentation of how to style the .md file
 
-[Back](../../README.md)
+--------------------------------------------------------
+### For navigation purposes:
+
+[Back](../../README.md) to the README.md
