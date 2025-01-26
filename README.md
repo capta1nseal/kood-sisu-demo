@@ -29,7 +29,7 @@ For this workshop you need to:
 
 //[Version control](./src/Info/README-FOR-VERSION-CONTROL.md)
 ```
-## 2. Markdown files => README.md
+## 2. Markdown files
 
 From [here](./src/Info/README-FOR-MD-FILES.md) you will find a readme that will help you styling your markdown (.md) files
 
@@ -37,11 +37,11 @@ From [here](./src/Info/README-FOR-MD-FILES.md) you will find a readme that will 
 
 There aren't just one way to do things and every company has their own way of doing things. Some guidelines are still useful when working with other people.
 
-
+--------------------------------------------------------------------------------------------------------------------------------
 ### Extra
 >Below is the automatically generated README.md file
 
---------------------------------------------------------------------------------------------------------------------------------
+
 
 # Getting Started with Create React App
 
