@@ -1,6 +1,6 @@
 # 2. Creating and styling the markdown file
 
-## Why do this?
+### Why do this?
 
 A well done markdown file makes it easier for others to get a grasp of what is happening in your code. You can think of this as a part of **documenting your code**. Also it will potentially allow anyone new to setup your application (or snippet or module what ever it is you're working on) to their own development enviroinment. 
 
@@ -10,7 +10,7 @@ An example of repository with a good README [react-dates](https://github.com/rea
 
 For example you can create a portfolio repository that contains your public/private projects (that you are allowed and can show to others without limitations) and including well done README.md file will help you to showcase your productions when applying to a job.
 
-## And what to write inside of the .md file? 
+## What to write inside of the .md file? 
 
 Basically you can write anything (although that's not the point). If you checked the link above you might have gotten an idea of how the README.md file can be used to provide info of the code and how to set it up. 
 
