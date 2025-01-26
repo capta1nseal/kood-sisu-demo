@@ -4,7 +4,9 @@
 
 A well done markdown file makes it easier for others to get a grasp of what is happening in your code. You can think of this as a part of **documenting your code**. Also it will potentially allow anyone new to setup your application (or snippet or module what ever it is you're working on) to their own development enviroinment. 
 
-[An example of repository with a good README](https://)
+An example of repository with a good README [react-dates](https://github.com/react-dates/react-dates)
+
+[Some more examples](https://github.com/matiassingers/awesome-readme) 
 
 For example you can create a portfolio repository that contains your public/private projects (that you are allowed and can show to others without limitations) and including well done README.md file will help you to showcase your productions when applying to a job.
 
@@ -27,6 +29,8 @@ This can be done by following the next steps:
 3.Then... 
 ```
 
-## Creating the .md file
+## Styling the .md file
+
+[Here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is a link to GitHub's own documentation of how to style the .md file
 
 [Back](../../README.md)
