@@ -23,14 +23,15 @@ For this workshop you need to:
 1. Create a new branch from the main
 2. Name it => feature/*yourNameHere* (example: feature/samuel-m) 
 
+```js
 // TODO - this part only if the pull requests will be done
-You can skip this link for now and return to it after completing the other sections 
+//You can skip this link for now and return to it after completing the other sections 
 
-[Version control](./src/Exercises/README-FOR-VERSION-CONTROL.md)
-
+//[Version control](./src/Info/README-FOR-VERSION-CONTROL.md)
+```
 ## 2. Markdown files => README.md
 
-From [here](./src/Exercises/README-FOR-MD-FILES.md) you will find a readme that will help you styling your markdown (.md) files
+From [here](./src/Info/README-FOR-MD-FILES.md) you will find a readme that will help you styling your markdown (.md) files
 
 ## **Notice** 
 
