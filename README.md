@@ -37,6 +37,15 @@ From [here](./src/Info/README-FOR-MD-FILES.md) you will find a readme that will 
 
 There aren't just one way to do things and every company has their own way of doing things. Some guidelines are still useful when working with other people.
 
+## 3. Commit messages
+
+Commit messages are a way of telling what has been done. Well sure they are but why does it matter what I write in them? [More here](./src/Info/README-FOR-COMMITS.md)
+
+ # Exercises
+Totally optional and won't be graded in any way. 
+
+# Feel free to come and discuss about the topics or coding related stuff.
+
 --------------------------------------------------------------------------------------------------------------------------------
 ### Extra
 >Below is the automatically generated README.md file
