@@ -42,7 +42,7 @@ There aren't just one way to do things and every company has their own way of do
 Commit messages are a way of telling what has been done. Well sure they are but why does it matter what I write in them? [More here](./src/Info/README-FOR-COMMITS.md)
 
  # Exercises
-Totally optional and won't be graded in any way. 
+Totally optional and won't be graded in any way. Although you will get feedback of the done exercices if you want.
 
 # Feel free to come and discuss about the topics or coding related stuff.
 
