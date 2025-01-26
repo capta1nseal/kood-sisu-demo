@@ -1,3 +1,16 @@
+# Kood/Sisu demo
+
+This workshop contains the ***basics of GitHub*** including
+
+1. Creating and modifying the README.md (editing and what to put in there)
+2. Commits - Good ways to create a commit (notice that there aren't just one way to do things but some guidelines are useful for version control)
+3. 
+
+
+**Below is the automatically created README.md file**
+
+--------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
