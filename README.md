@@ -1,6 +1,6 @@
 # Kood/Sisu demo
 
-### This clinic (workshop) contains the ***Basics of GitHub*** including
+### This clinic (or workshop) contains the ***Basics of GitHub*** including
 
 1. Working with branches
 2. Creating and modifying the README.md (editing and what to put in there)
