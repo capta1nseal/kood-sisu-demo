@@ -47,7 +47,7 @@ Read more [here](./src/Info/README-FOR-COMMITS.md)
 
  # Exercises
 
-Totally optional and won't be graded in any way. Although you will get feedback of the done exercices if you want.
+These exercises are completely optional and won't be graded in any way. Although you will get feedback for the done exercices if you want.
 
  [To exercises.](./src/Exercises/EXERCISES.md)
 
