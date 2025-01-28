@@ -26,17 +26,13 @@ There isn't just one way of doing things and every company has their own way to 
 To summarize the main idea behind the branches is: 
 You normally want to create a new branch when starting to develop a new feature for the application. This is to prevent any modifications (possibly leading to a stack of errors) from being made to the product that is currently working. For example you don't want to commit your changes straight to a released application unless you are finished with the development of the feature you are/were working on.
 
-```js
-// TODO - this part only if the pull requests will be done
-//You can skip this link for now and return to it after completing the other sections 
+[Version control](./src/Info/README-FOR-VERSION-CONTROL.md)
 
-//[Version control](./src/Info/README-FOR-VERSION-CONTROL.md)
-```
 
 
 ## 2. Markdown files
 
-From [here](./src/Info/README-FOR-MD-FILES.md) you will find a readme that will help you style your markdown (.md) files and explains a bit why and how to do them.
+From [here](./src/Info/README-FOR-MD-FILES.md) you will find a readme that will help you style your markdown (.md) files and explains a bit on why and how to do them.
 
 
 ## 3. Commit messages
