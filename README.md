@@ -16,9 +16,7 @@ During this clinic you should get a grasp on:
 - How to make commits easier to handle (for you and others)
 
 
-## **Notice** 
-
-There isn't just one way of doing things and every company has their own way to do things. Some guidelines are still useful when working with other people.
+>**Notice**: There isn't just one way of doing things and every organization has their own way of doing things. Some guidelines are still useful when working with other people.
 
 
 ## 1. Branches
