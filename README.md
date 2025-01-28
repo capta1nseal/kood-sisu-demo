@@ -1,6 +1,6 @@
 # Kood/Sisu demo
 
-# This clinic (workshop) contains the ***Basics of GitHub*** including
+### This clinic (workshop) contains the ***Basics of GitHub*** including
 
 1. Working with branches
 2. Creating and modifying the README.md (editing and what to put in there)
@@ -18,10 +18,6 @@ During this clinic you should get a grasp on:
 
 To summarize the main idea behind the branches is: 
 You normally want to create a new branch when starting to develop a new feature for the application. This is to prevent any modifications (possibly leading to a stack of errors) from being made to the product that is currently working. For example you don't want to commit your changes straight to a released application unless you are finished with the development of the feature you are/were working on.
-
-For this workshop you need to: 
-1. Create a new branch from the main
-2. Name it => feature/*yourNameHere* (example: feature/samuel-m) 
 
 ```js
 // TODO - this part only if the pull requests will be done
