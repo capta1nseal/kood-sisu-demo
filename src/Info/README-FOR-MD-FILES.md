@@ -31,7 +31,9 @@ This can be done by following the next steps:
 
 ## Styling the .md file
 
-[Here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is a link to GitHub's own documentation of how to style the .md file
+[Here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is a link to GitHub's own documentation on how to style the .md file.
+
+[Another link](https://www.markdownguide.org/) to help you on your journey.
 
 --------------------------------------------------------
 ### For navigation purposes:
