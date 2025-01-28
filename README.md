@@ -16,7 +16,7 @@
 
 During this clinic you should get a grasp on:
 
-- How to work with branches
+- How to work with branches and do basic version control
 - How to modify .md files and what to put in there
 - How to make commits easier to handle (for you and others)
 
