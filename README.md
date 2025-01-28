@@ -6,6 +6,11 @@
 2. Creating and modifying the README.md (editing and what to put in there)
 3. Commits - Good ways to create a commit
 
+ ---------------------------------------
+
+### Feel free to come and discuss about the topics or coding related stuff.
+
+----------------------------------------
 
 ## What to expect?
 
@@ -48,11 +53,7 @@ Totally optional and won't be graded in any way. Although you will get feedback 
 
  If you have done such things before and are able to present them for review you may do so instead of the exercises.
 
- ---------------------------------------
 
-### Feel free to come and discuss about the topics or coding related stuff.
-
-----------------------------------------
 
 ### Extra
 
