@@ -51,7 +51,7 @@ These exercises are completely optional and won't be graded in any way. Although
 
  [To exercises.](./src/Exercises/EXERCISES.md)
 
- If you have done such things before and are able to present them for review you may do so instead of the exercises.
+ If you have done such things before and are able and allowed to present them for review you may do so instead of the exercises.
 
 
 
