@@ -9,6 +9,26 @@ To summarize the main idea behind the branches is:
 You normally want to create a new branch when starting to develop a new feature for the application. This is to prevent any modifications (possibly leading to a stack of errors) from being made to the product that is currently working. 
 For example you don't want to commit your changes straight to a released application unless you are finished with the development of the feature you are/were working on.
 
+Example case: 
+
+>You are starting to create a new feature for your project (application). Let's say in this scenario a login for your customers. 
+There are 50 other people working on different things in your organization so you want to keep things easy for the others (and for yourself as well).
+How can you accomplish that?
+
+Create a new branch where you can work on your changes/creation.
+
+### Naming the branch
+
+Again there is no one correct way of doing this but many organizations and coders have settled for names like ***feature***, ***development***/***dev*** and ***production***/***prod***.
+Personally I'm a big fan of these names due to the reason that they provide simple yet straightforward information of the function of the branch.
+
+To concretize this here are some examples:
+
+- ***feature/customer-login***
+
+- ***release/prod*** (for the actual released application/software)
+
+- ***release/v-1.0.x*** (for application versioning where multiple instances of the application needs to be available for example due to compatibility reasons)
 
 ## Pull requests
 
