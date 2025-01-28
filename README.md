@@ -38,19 +38,6 @@ Markdown files are a part of documenting your code. The idea is to make it easie
 From [here](./src/Info/README-FOR-MD-FILES.md) you will find a readme that will help you style your markdown (.md) files and explains a bit on why and how to do them.
 
 
-### A markdown file can also be a good tool to present your skills 
-
-For the purpose of presenting your skills a well done portfolio can be a powerful tool in your disposal when applying for work. 
-You could think of it as an extension of your CV (resume). For example the portfolio can be a repository in GitHub that contains all your work. 
-
-**Note** that usually you aren't allowed to present organizational code anywhere and should therefore ask the organization if you are allowed to present your work in your portfolio. The work I'm referring here is the projects you have done with public licenses and/or you don't care if they would get copied and monetized by others. 
-
-An example of an application or a software could be just a simple website with some functionality like navigation and some content inside the pages. It is solely to show that you can do stuff. 
-
-The main point of this is on how you present your skills. If you create a repository and put your work there and are able to explain and navigate the reader/viewer through the most important parts you have done well in this scenario.
-And this can be done with a well made .md file (README.md).
-
-
 ## 3. Commit messages
 
 Commit messages are a way of telling what has been done. Well sure they are but why does it matter what I write in them? 
