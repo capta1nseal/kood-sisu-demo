@@ -53,9 +53,9 @@ And this can be done with a well made .md file (README.md).
 
 ## 3. Commit messages
 
-Commit messages are a way of telling what has been done. 
+Commit messages are a way of telling what has been done. Well sure they are but why does it matter what I write in them? 
 
-Well sure they are but why does it matter what I write in them? [More here](./src/Info/README-FOR-COMMITS.md)
+Read more [here](./src/Info/README-FOR-COMMITS.md)
 
 
  # Exercises
