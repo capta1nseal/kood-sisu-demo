@@ -42,7 +42,7 @@ Commit messages are a way of telling what has been done. Well sure they are but 
 
 Totally optional and won't be graded in any way. Although you will get feedback of the done exercices if you want.
 
- [Here](./src/Exercises/EXERCISES.md)
+ [To exercises](./src/Exercises/EXERCISES.md)
 
  If you have done such things before and are able to present them for review you may do so instead of the exercises
 
