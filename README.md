@@ -48,7 +48,7 @@ Well sure they are but why does it matter what I write in them? [More here](./sr
 
 Totally optional and won't be graded in any way. Although you will get feedback of the done exercices if you want.
 
- [To exercises](./src/Exercises/EXERCISES.md)
+ [To exercises.](./src/Exercises/EXERCISES.md)
 
  If you have done such things before and are able to present them for review you may do so instead of the exercises.
 
