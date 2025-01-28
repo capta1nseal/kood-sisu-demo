@@ -36,7 +36,7 @@ This can be done by following the next steps:
 
 [Another link](https://www.markdownguide.org/) to help you on your journey. 
 
-Note that all styling presented in the second link may not work in all enviroinments but by testing you can reach the desired result.
+>Note that all styling presented in the second link may not work in all enviroinments but by testing you can reach the desired result.
 
 --------------------------------------------------------
 
