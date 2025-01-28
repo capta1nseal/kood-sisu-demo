@@ -6,6 +6,7 @@
 2. Creating and modifying the README.md (editing and what to put in there)
 3. Commits - Good ways to create a commit
 
+
 ## What to expect?
 
 During this clinic you should get a grasp on:
@@ -13,6 +14,12 @@ During this clinic you should get a grasp on:
 - How to work with branches
 - How to modify .md files and what to put in there
 - How to make commits easier to handle (for you and others)
+
+
+## **Notice** 
+
+There isn't just one way of doing things and every company has their own way to do things. Some guidelines are still useful when working with other people.
+
 
 ## 1. Branches
 
@@ -26,17 +33,16 @@ You normally want to create a new branch when starting to develop a new feature 
 //[Version control](./src/Info/README-FOR-VERSION-CONTROL.md)
 ```
 
+
 ## 2. Markdown files
 
 From [here](./src/Info/README-FOR-MD-FILES.md) you will find a readme that will help you style your markdown (.md) files and explains a bit why and how to do them.
 
-### **Notice** 
-
-There isn't just one way of doing things and every company has their own way to do things. Some guidelines are still useful when working with other people.
 
 ## 3. Commit messages
 
 Commit messages are a way of telling what has been done. Well sure they are but why does it matter what I write in them? [More here](./src/Info/README-FOR-COMMITS.md)
+
 
  # Exercises
 
