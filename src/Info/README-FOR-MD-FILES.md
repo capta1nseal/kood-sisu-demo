@@ -12,9 +12,9 @@ An example of an application or a software could be just a simple website with s
 The main point of this is on how you present your skills. If you create a repository and put your work there and are able to explain and navigate the reader/viewer through the most important parts you have done well in this scenario.
 And this can be done with a well made .md file (README.md).
 
-### Why do this?
+### Why do i want to create a markdown file?
 
-A well done markdown file makes it easier for others to get a grasp of what is happening in your code. You can think of this as a part of **documenting your code**. 
+Portfolios aside a well done markdown file makes it easier for others to get a grasp of what is happening in your code. You can think of this as a part of **documenting your code**. 
 Also it will potentially allow anyone new to setup your application (or snippet or module what ever it is you're working on) to their own development enviroinment. 
 
 An example of repository with a good README.md [react-dates](https://github.com/react-dates/react-dates)
