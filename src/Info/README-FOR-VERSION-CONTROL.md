@@ -15,6 +15,7 @@ To put it simply: Pull requests are designed to make merging safer. Also to make
 
 The process in a nutshell:
 
+> Quote:
 >- **Fork Main Repository and Create a Local Clone**. First, the developer creates a fork of the main repository, and then clones this onto their local machine.
 >- **Make Needed Changes Locally.** The developer then is able to make their needed changes or additions to the code whether they are working on resolving an issue or new feature.
 >- **Push Local Changes to Forked Repository.** Once the developer has completed and tested the new code changes, they push these changes back to the forked repository they created in step one.
