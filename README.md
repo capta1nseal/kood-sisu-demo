@@ -38,7 +38,7 @@ Markdown files are a part of documenting your code. The idea is to make it easie
 From [here](./src/Info/README-FOR-MD-FILES.md) you will find a readme that will help you style your markdown (.md) files and explains a bit on why and how to do them.
 
 
-### Markdown file can also be a good tool to present your skills 
+### A markdown file can also be a good tool to present your skills 
 
 For the purpose of presenting your skills a well done portfolio can be a powerful tool in your disposal when applying for work. 
 You could think of it as an extension of your CV (resume). For example the portfolio can be a repository in GitHub that contains all your work. 
