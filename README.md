@@ -58,7 +58,7 @@ Totally optional and won't be graded in any way. Although you will get feedback 
 ### Extra
 
 >Below is the automatically generated README.md file
-
+>This section is included only to showcase what it looks like and therefore can be ignored
 
 
 ># Getting Started with Create React App
