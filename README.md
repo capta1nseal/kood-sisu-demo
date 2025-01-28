@@ -6,9 +6,9 @@
 2. Creating and modifying the README.md (editing and what to put in there)
 3. Commits - Good ways to create a commit
 
- ---------------------------------------
+---------------------------------------
 
-### Feel free to come and discuss about the topics or coding related stuff.
+>### Feel free to come and discuss about the topics or coding related stuff.
 
 ----------------------------------------
 
