@@ -32,7 +32,7 @@ From [here](./src/Info/README-FOR-MD-FILES.md) you will find a readme that will 
 
 ### **Notice** 
 
-There aren't just one way to do things and every company has their own way of doing things. Some guidelines are still useful when working with other people.
+There isn't just one way of doing things and every company has their own way to do things. Some guidelines are still useful when working with other people.
 
 ## 3. Commit messages
 
