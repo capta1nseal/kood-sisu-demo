@@ -14,14 +14,11 @@ or
 
 - You may create your own repository
 
-or
-
-- You may also request to be a controbutor (and inform me, Samuel, to accept you as a contributor to this repository) and create your branch inside this repository
 
 ## Step 2
 
 1. Create a new branch from the main
-2. Name it => feature/*yourFeatureName* (example: feature/exercise). If you are contributing to this repository name it => feature/*yourName* (example: feature/stephen-a)
+2. Name it => feature/*yourFeatureName* (example: feature/exercise).
 
 
 ## Step 3 
@@ -35,7 +32,7 @@ or
 
 1. Write a commit message
 2. Commit your creation
-3. Create a pull request for your commit or commit your creation
+3. Create a pull request for your commit (or alternatively just push the commit to your branch)
 
 ## Step 5 
 
