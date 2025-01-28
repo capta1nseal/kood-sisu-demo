@@ -32,12 +32,16 @@ You normally want to create a new branch when starting to develop a new feature 
 
 ## 2. Markdown files
 
+Markdown files are a part of documenting your code. The idea is to make it easier for others to start working on the software/application and to understand how it is set up and if there are some key points to notice.
+
 From [here](./src/Info/README-FOR-MD-FILES.md) you will find a readme that will help you style your markdown (.md) files and explains a bit on why and how to do them.
 
 
 ## 3. Commit messages
 
-Commit messages are a way of telling what has been done. Well sure they are but why does it matter what I write in them? [More here](./src/Info/README-FOR-COMMITS.md)
+Commit messages are a way of telling what has been done. 
+
+Well sure they are but why does it matter what I write in them? [More here](./src/Info/README-FOR-COMMITS.md)
 
 
  # Exercises
