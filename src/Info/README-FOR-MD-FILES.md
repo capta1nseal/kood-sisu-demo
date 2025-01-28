@@ -8,7 +8,7 @@ An example of repository with a good README.md [react-dates](https://github.com/
 
 [Some more examples](https://github.com/matiassingers/awesome-readme) 
 
-For example you can create a portfolio repository that contains your public/private projects (that you are allowed and can show to others without limitations) and including well done README.md file will help you to showcase your productions when applying to a job.
+For example you can create a portfolio repository that contains your public/private projects (that you are allowed and can show to others without limitations) and including well done README.md file will help you to showcase your productions when applying for a job.
 
 ## What to write inside of the .md file? 
 
