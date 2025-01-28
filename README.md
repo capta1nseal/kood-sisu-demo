@@ -1,6 +1,6 @@
 # Kood/Sisu demo - Basics of GitHub
 
-### This clinic (or workshop) contains the ***Basics of GitHub*** including
+### This clinic contains the ***Basics of GitHub*** including
 
 1. Working with branches
 2. Creating and modifying the README.md (editing and what to put in there)
@@ -26,7 +26,7 @@ During this clinic you should get a grasp on:
 
 ## 1. Version control (branches and pull requests)
 
-In this clinic (workshop) we will address mainly branches and pull requests. This is in order to make this as simple as possible.
+In this clinic we will address mainly branches and pull requests. This is in order to make this as simple as possible.
 
 [To version control](./src/Info/README-FOR-VERSION-CONTROL.md)
 
