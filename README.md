@@ -19,9 +19,9 @@ During this clinic you should get a grasp on:
 >**Notice**: There isn't just one way of doing things and every organization has their own way of doing things. Some guidelines are still useful when working with other people.
 
 
-## 1. Version control (branches)
+## 1. Version control (branches and pull requests)
 
-In this clinic (workshop) we will address mainly branches and pull request. 
+In this clinic (workshop) we will address mainly branches and pull requests. This is in order to make this as simple as possible.
 
 [To version control](./src/Info/README-FOR-VERSION-CONTROL.md)
 
