@@ -9,6 +9,7 @@ For this workshop you need to:
 2. Name it => feature/*yourNameHere* (example: feature/samuel-m)
 
 --------------------------------------------------------
+
 ### For navigation purposes:
 
 [Back](../../README.md) to the README.md
