@@ -28,7 +28,7 @@ You normally want to create a new branch when starting to develop a new feature 
 
 ## 2. Markdown files
 
-From [here](./src/Info/README-FOR-MD-FILES.md) you will find a readme that will help you styling your markdown (.md) files
+From [here](./src/Info/README-FOR-MD-FILES.md) you will find a readme that will help you style your markdown (.md) files
 
 ## **Notice** 
 
