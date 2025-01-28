@@ -46,3 +46,10 @@ The process in a nutshell:
 >- **Merge with Main Project.** Once the repository maintainer has approved a pull request, the developer’s new updates in the forked repository are merged with the main project repository. The product is then updated with the new feature or bug fix, and can now be viewed by end users.
 
 [Source](https://www.pagerduty.com/resources/learn/what-is-a-pull-request/#:~:text=A%20pull%20request%20%E2%80%93%20also%20referred,with%20the%20main%20project%20repository.) and more about pull request
+
+
+--------------------------------------------------------
+
+### For navigation purposes:
+
+[Back](../../README.md) to the README.md
