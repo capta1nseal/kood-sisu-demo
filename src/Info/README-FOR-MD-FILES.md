@@ -21,6 +21,7 @@ Here are some key points to think when creating a README.md:
 - What info is ***good to know*** to make the working easier 
 
 The ***good to know*** parts can be something like:
+
 ``` 
 When creating a local developement enviroinment there is a situation X where the database has to be manually configured. 
 This can be done by following the next steps: 
@@ -33,9 +34,12 @@ This can be done by following the next steps:
 
 [Here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) is a link to GitHub's own documentation on how to style the .md file.
 
-[Another link](https://www.markdownguide.org/) to help you on your journey.
+[Another link](https://www.markdownguide.org/) to help you on your journey. 
+
+Note that all styling presented in the second link may not work in all enviroinments but by testing you can reach the desired result.
 
 --------------------------------------------------------
+
 ### For navigation purposes:
 
 [Back](../../README.md) to the README.md
