@@ -1,6 +1,8 @@
 # Version control
 
+To summarize: Version control is the practice of tracking and managing changes to software code.
 
+[More info](https://about.gitlab.com/topics/version-control/) about version control.
 
 ## Branches 
 
