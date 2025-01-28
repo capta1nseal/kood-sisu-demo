@@ -46,7 +46,7 @@ Totally optional and won't be graded in any way. Although you will get feedback 
 
  If you have done such things before and are able to present them for review you may do so instead of the exercises.
 
-# Feel free to come and discuss about the topics or coding related stuff.
+### Feel free to come and discuss about the topics or coding related stuff.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
