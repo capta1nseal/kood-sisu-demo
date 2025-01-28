@@ -25,6 +25,7 @@ You normally want to create a new branch when starting to develop a new feature 
 
 //[Version control](./src/Info/README-FOR-VERSION-CONTROL.md)
 ```
+
 ## 2. Markdown files
 
 From [here](./src/Info/README-FOR-MD-FILES.md) you will find a readme that will help you styling your markdown (.md) files
@@ -48,6 +49,7 @@ Totally optional and won't be graded in any way. Although you will get feedback 
 # Feel free to come and discuss about the topics or coding related stuff.
 
 --------------------------------------------------------------------------------------------------------------------------------
+
 ### Extra
 >Below is the automatically generated README.md file
 
