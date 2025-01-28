@@ -5,6 +5,7 @@
 ## Branches 
 
 To summarize the main idea behind the branches is: 
+
 You normally want to create a new branch when starting to develop a new feature for the application. This is to prevent any modifications (possibly leading to a stack of errors) from being made to the product that is currently working. 
 For example you don't want to commit your changes straight to a released application unless you are finished with the development of the feature you are/were working on.
 
