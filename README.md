@@ -33,7 +33,7 @@ In this clinic we will address mainly branches and pull requests. This is in ord
 
 ## 2. Markdown files
 
-Markdown files are a part of documenting your code. The idea is to make it easier for others to start working on the software/application and to understand how it is set up and if there are some key points to notice.
+Markdown files are a part of your code documentation. The idea is to make it easier for others to start working on the software/application and to understand how it is set up and if there are some key points to notice.
 
 From [here](./src/Info/README-FOR-MD-FILES.md) you will find a readme that will help you style your markdown (.md) files and explains a bit on why and how to do them.
 
