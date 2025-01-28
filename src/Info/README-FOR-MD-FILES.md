@@ -1,4 +1,4 @@
-# 2. Creating and styling the markdown file
+# Creating and styling the markdown file
 
 ### Why do this?
 
