@@ -19,13 +19,11 @@ During this clinic you should get a grasp on:
 >**Notice**: There isn't just one way of doing things and every organization has their own way of doing things. Some guidelines are still useful when working with other people.
 
 
-## 1. Branches
+## 1. Version control (branches)
 
-To summarize the main idea behind the branches is: 
-You normally want to create a new branch when starting to develop a new feature for the application. This is to prevent any modifications (possibly leading to a stack of errors) from being made to the product that is currently working. For example you don't want to commit your changes straight to a released application unless you are finished with the development of the feature you are/were working on.
+In this clinic (workshop) we will address mainly branches and pull request. 
 
-[Version control](./src/Info/README-FOR-VERSION-CONTROL.md)
-
+[To version control](./src/Info/README-FOR-VERSION-CONTROL.md)
 
 
 ## 2. Markdown files
