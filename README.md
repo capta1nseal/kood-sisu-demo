@@ -1,4 +1,4 @@
-# Kood/Sisu demo
+# Kood/Sisu demo - Basics of GitHub
 
 ### This clinic (or workshop) contains the ***Basics of GitHub*** including
 
